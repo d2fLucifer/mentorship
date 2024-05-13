@@ -9,10 +9,10 @@
 
 ## Daily Report 12/05/2024
 
--Bui Thanh Tung : Daily report : 12/05/2024
--Yesterday : research about ELT ,ETL and data warehouse architecture
--Blocker : none
--Today : do some quiz related to data warehouse in datacamp ( about ELT and ETL topic)
+- Bui Thanh Tung : Daily report : 12/05/2024
+- Yesterday : research about ELT ,ETL and data warehouse architecture
+- Blocker : none
+- Today : do some quiz related to data warehouse in datacamp ( about ELT and ETL topic)
 
 ## Daily Report 13/05/2024
 
