@@ -32,6 +32,7 @@
  - Completed database diagram
   - Do the powerpoint
   - Write the note for this chapter 
+- Blocker : None 
 - Today : 
  - Research the denormalization
  - Research the data mart 
