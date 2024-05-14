@@ -29,11 +29,11 @@
 
 - Bui Thanh Tung : Daily report : 14/05/2024 
 - Yesterday : 
- - Completed database diagram
+  - Completed database diagram
   - Do the powerpoint
   - Write the note for this chapter 
 - Blocker : None 
 - Today : 
- - Research the denormalization
- - Research the data mart 
- - Note these things in documents  
+  - Research the denormalization
+  - Research the data mart 
+  - Note these things in documents  
