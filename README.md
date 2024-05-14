@@ -24,3 +24,15 @@
   - Completed database diagram
   - Do the powerpoint
   - Write the note for this chapter ( pls check in the Note folder )
+
+## Daily Report 14/05/2024 
+
+- Bui Thanh Tung : Daily report : 14/05/2024 
+- Yesterday : 
+ - Completed database diagram
+  - Do the powerpoint
+  - Write the note for this chapter 
+- Today : 
+ - Research the denormalization
+ - Research the data mart 
+ - Note these things in documents  
