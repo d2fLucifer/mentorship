@@ -37,3 +37,10 @@
   - Research the denormalization
   - Research the data mart 
   - Note these things in documents  
+## Daily Report 16/05/2024 
+- Bui Thanh Tung : Daily report 14/05/2024 
+- Yesterday : 
+  - Create project analysis for upcoming project (for e- learning platform)
+- Blocker : none 
+- Today : 
+  - Create  personas mindmap 
